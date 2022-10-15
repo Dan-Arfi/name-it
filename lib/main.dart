@@ -3,9 +3,7 @@ import 'package:csv/csv.dart';
 import 'package:flutter/material.dart';
 import 'loadCsvDataSreen.dart';
 import 'package:path_provider/path_provider.dart';
-import 'dart:io';
 import 'package:file_picker/file_picker.dart';
-import 'package:random_string/random_string.dart';
 
 void main() {
   runApp(MyApp());
